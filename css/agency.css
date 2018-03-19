@@ -12,6 +12,11 @@ body {
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #F5F5F5;
 }
+@media(max-width:600px){
+.container{
+    padding-left: 10px !important;
+    }
+}
 
 p {
   line-height: 1.75;
