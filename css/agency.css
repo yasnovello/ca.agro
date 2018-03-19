@@ -405,25 +405,25 @@ section#contact .form-control:focus {
 
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
-  color: #6CA6CD;
+  color: #777;
   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
-  color: #6CA6CD;
+  color: #777;
   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
-  color: #6CA6CD;
+  color: #777;
   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
-  color: #6CA6CD;
+  color: #777;
   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 
